@@ -2,3 +2,4 @@
 hello-git
 
 使用clone命令，clone远程仓库到本地。
+使用pull命令，讲本地文件推送到远程仓库。
